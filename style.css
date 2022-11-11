@@ -2119,7 +2119,7 @@ footer {
 	height: 100%;
 	position: relative;
 	font-size: 1em;
-	background: linear-gradient(to bottom, rgb(0, 158, 206) 30%,rgba(255,255,255,1) 100%);
+	background: linear-gradient(to bottom, rgb(30 30 30) 30%,rgba(255,255,255,1) 100%);
 	float: right;
 	
 }
