@@ -641,7 +641,7 @@ width: 100%;
   top: 0;
   left: 0;
   transform: translateX(-200%);
-  background: rgba(0,0,0,0.5);
+  background: rgba(0,0,0,0.9);
   display: flex;
 
   align-items: center;
@@ -1404,6 +1404,7 @@ img.payqr {
   .containerpro {
     padding: 15px;
     box-sizing: border-box;
+    background: white;
 }
   
   .item_cantidadt button {
@@ -2475,6 +2476,7 @@ nav.navbar.navbar-dark.bg-dark {
       }
       img.img-show.show {
         width: auto;
+        border-radius: 20px;
     }
 
     .img-show{
