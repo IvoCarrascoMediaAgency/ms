@@ -306,6 +306,9 @@ transition: 1s ease-in-out 0s;
     margin-top: 10px;
  
 }
+span#tutyufhgfhgf {
+    color: white;
+}
 
 .expertosweb h3 {
     color: #777;
@@ -2558,9 +2561,10 @@ a.olc1{
     width: 90%;
     text-align: center;
     display: grid;
-    grid-template-columns: auto auto;
+    grid-template-rows: auto auto;
     justify-content: center;
     align-items: center;
+    margin-bottom: 20px;
 }
 
 
